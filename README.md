@@ -26,7 +26,7 @@
 |:--|--|--:|
 |![](https://github.com/kolbunovaa/hse_hw3_chromhmm/blob/main/results/HSMMtube_11_overlap.png)|![](https://github.com/kolbunovaa/hse_hw3_chromhmm/blob/main/results/emissions_11.png)|![](https://github.com/kolbunovaa/hse_hw3_chromhmm/blob/main/results/transitions_11.png)|
 
-|Состояние|Наиболее представленные гистоновые метки|Место нахождения (относительно TSS)|Место нахождения (относительно TES)|Часть генома|Итог|
+|Состояние|Гистоновые метки|Место нахождения (относительно TSS)|Место нахождения (относительно TES)|Часть генома|Итог|
 |:--|--|--|--|--|--:|
 |1||||||
 |2||||||
