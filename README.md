@@ -25,3 +25,17 @@
 ||||
 |:--|--|--:|
 |![](https://github.com/kolbunovaa/hse_hw3_chromhmm/blob/main/results/HSMMtube_11_overlap.png)|![](https://github.com/kolbunovaa/hse_hw3_chromhmm/blob/main/results/emissions_11.png)|![](https://github.com/kolbunovaa/hse_hw3_chromhmm/blob/main/results/transitions_11.png)|
+
+|Состояние|Наиболее представленные гистоновые метки|Место нахождения (относительно TSS)|Место нахождения (относительно TES)|Итог|
+|:--|--|--|--|--:|
+|1|||||
+|2|||||
+|3|||||
+|4|||||
+|5|||||
+|6|||||
+|7|||||
+|8|||||
+|9|||||
+|10|||||
+|11|||||
