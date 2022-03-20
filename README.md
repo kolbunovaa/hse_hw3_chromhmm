@@ -18,6 +18,10 @@
 |H4K20me1|H4K20me1.bam|
 
 ### Выдача ChromHMM
+|||
+|:--|--:|
+|![](https://github.com/kolbunovaa/hse_hw3_chromhmm/blob/main/results/HSMMtube_11_RefSeqTES_neighborhood.png)|![](https://github.com/kolbunovaa/hse_hw3_chromhmm/blob/main/results/HSMMtube_11_RefSeqTSS_neighborhood.png)|!
+
 ||||
 |:--|--|--:|
 |![](https://github.com/kolbunovaa/hse_hw3_chromhmm/blob/main/results/HSMMtube_11_overlap.png)|![](https://github.com/kolbunovaa/hse_hw3_chromhmm/blob/main/results/emissions_11.png)|![](https://github.com/kolbunovaa/hse_hw3_chromhmm/blob/main/results/transitions_11.png)|
