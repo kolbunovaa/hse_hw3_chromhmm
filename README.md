@@ -48,7 +48,7 @@
 
 ### Бонус
 
-![]()
+![](https://github.com/kolbunovaa/images/blob/main/gjhjjkj.png)
 
 ![]()
 
